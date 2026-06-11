@@ -1,0 +1,37 @@
+﻿@using FinalExam.Areas.Admin.ViewModels.Place
+@model UpdatePlaceVM
+
+<div>
+    <form asp-controller="Place" asp-action="Update" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="Name" class="form-label">Name</label>
+            <input asp-for="@Model.Name" type="text" class="form-control" id="Name" placeholder="Add Name">
+            <span class="text-danger" asp-validation-for="@Model.Name"></span>
+        </div>
+        <div class="mb-3">
+            <label for="FullAddress" class="form-label">FullAddress</label>
+            <input asp-for="@Model.FullAddress" type="text" class="form-control" id="FullAddress" placeholder="Add FullAddress">
+            <span class="text-danger" asp-validation-for="@Model.FullAddress"></span>
+        </div>
+        <div class="mb-3">
+            <label for="Description" class="form-label">Description</label>
+            <input asp-for="@Model.Description" type="text" class="form-control" id="Description" placeholder="Add Description">
+            <span class="text-danger" asp-validation-for="@Model.Description"></span>
+        </div>
+        <select asp-for="@Model.CityId" class="form-select" aria-label="Default select example">
+            <option selected>Open this select menu</option>
+            @foreach (var city in ViewBag.City)
+            {
+                <option value="@city.Id">@city.Name</option>
+            }
+        </select>
+        <span class="text-danger" asp-validation-for="@Model.CityId"></span>
+        <div class="mb-3">
+            <label for="ImageFile" class="form-label">ImageFile</label>
+            <input asp-for="@Model.ImageFile" type="file" class="form-control" id="ImageFile" placeholder="Add ImageFile">
+            <span class="text-danger" asp-validation-for="@Model.ImageFile"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

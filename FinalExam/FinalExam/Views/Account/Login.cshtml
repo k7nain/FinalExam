@@ -1,0 +1,19 @@
+﻿@using FinalExam.ViewModels.Account
+@model LoginVM
+
+<div>
+    <form asp-controller="Account" asp-action="Login">
+        <div class="text-danger" asp-validation-summary="All"></div>
+        <div class="mb-3">
+            <label for="Email" class="form-label">Email</label>
+            <input asp-for="@Model.Email" type="email" class="form-control" id="Email" placeholder="Add Email">
+            <span class="text-danger" asp-validation-for="@Model.Email"></span>
+        </div>
+        <div class="mb-3">
+            <label for="Password" class="form-label">Password</label>
+            <input asp-for="@Model.Password" type="password" class="form-control" id="Password" placeholder="Add Password">
+            <span class="text-danger" asp-validation-for="@Model.Password"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

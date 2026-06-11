@@ -1,0 +1,13 @@
+﻿@using FinalExam.Areas.Admin.ViewModels.City
+@model UpdateCityVM
+
+<div>
+    <form asp-controller="City" asp-action="Update" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="Name" class="form-label">Name</label>
+            <input asp-for="@Model.Name" type="text" class="form-control" id="Name" placeholder="Add Name">
+            <span class="text-danger" asp-validation-for="@Model.Name"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

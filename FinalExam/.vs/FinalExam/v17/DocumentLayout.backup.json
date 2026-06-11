@@ -1,0 +1,681 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cff\\source\\repos\\FinalExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\error\\notfoundpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\error\\notfoundpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\controllers\\placecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\controllers\\placecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\views\\place\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\place\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\views\\place\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\place\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\viewmodels\\city\\createcityvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\viewmodels\\city\\createcityvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\finalexam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\finalexam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\viewmodels\\place\\updateplacevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\viewmodels\\place\\updateplacevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\views\\place\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\place\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\views\\city\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\city\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\viewmodels\\city\\updatecityvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\viewmodels\\city\\updatecityvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\viewmodels\\place\\createplacevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\viewmodels\\place\\createplacevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\utilities\\extensions\\fileuploadextensios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\utilities\\extensions\\fileuploadextensios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\migrations\\20260611053212_createdbandtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\migrations\\20260611053212_createdbandtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Controllers\\ErrorController.cs*",
+              "RelativeToolTip": "FinalExam\\Controllers\\ErrorController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T07:48:23.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Error\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Error\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Error\\Index.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Error\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T07:48:18.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotFoundPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Error\\NotFoundPage.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Error\\NotFoundPage.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Error\\NotFoundPage.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Error\\NotFoundPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T07:48:17.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaceController.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\PlaceController.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Controllers\\PlaceController.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\PlaceController.cs",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Controllers\\PlaceController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:37:46.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinalExam\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:11:02.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FinalExam\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAmwDQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:23:35.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\CityController.cs",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Controllers\\CityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:11:17.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Program.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Program.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Program.cs*",
+              "RelativeToolTip": "FinalExam\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:19:25.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Place\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\Place\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Place\\Index.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\Place\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:39:45.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "FinalExam\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:24:19.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\City\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\City\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\City\\Index.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\City\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T06:15:18.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:33:15.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "FinalExam\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:24:23.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T06:27:13.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T06:27:20.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:11:17.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Place\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\Place\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Place\\Create.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\Place\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:59:52.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKkBAAAAAAAAAAAAAL0BAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:11:08.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\City\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\City\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\City\\Create.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\City\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T06:15:28.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateCityVM.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\ViewModels\\City\\CreateCityVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\ViewModels\\City\\CreateCityVM.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\ViewModels\\City\\CreateCityVM.cs",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\ViewModels\\City\\CreateCityVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:12:52.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\City\\Update.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\City\\Update.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\City\\Update.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\City\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T06:15:34.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Place\\Update.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\Place\\Update.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Place\\Update.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\Place\\Update.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T06:04:58.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FinalExam.csproj",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\FinalExam.csproj",
+              "RelativeDocumentMoniker": "FinalExam\\FinalExam.csproj",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\FinalExam.csproj",
+              "RelativeToolTip": "FinalExam\\FinalExam.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-11T05:32:25.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdatePlaceVM.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\ViewModels\\Place\\UpdatePlaceVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\ViewModels\\Place\\UpdatePlaceVM.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\ViewModels\\Place\\UpdatePlaceVM.cs",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\ViewModels\\Place\\UpdatePlaceVM.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:33:05.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:26:01.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateCityVM.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\ViewModels\\City\\UpdateCityVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\ViewModels\\City\\UpdateCityVM.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\ViewModels\\City\\UpdateCityVM.cs",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\ViewModels\\City\\UpdateCityVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:13:06.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Models\\Place.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\Place.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Models\\Place.cs",
+              "RelativeToolTip": "FinalExam\\Models\\Place.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:16:04.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreatePlaceVM.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\ViewModels\\Place\\CreatePlaceVM.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\ViewModels\\Place\\CreatePlaceVM.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\ViewModels\\Place\\CreatePlaceVM.cs",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\ViewModels\\Place\\CreatePlaceVM.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:32:58.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:34:12.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FileUploadExtensios.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Utilities\\Extensions\\FileUploadExtensios.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Utilities\\Extensions\\FileUploadExtensios.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Utilities\\Extensions\\FileUploadExtensios.cs",
+              "RelativeToolTip": "FinalExam\\Utilities\\Extensions\\FileUploadExtensios.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:10:55.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswG8AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:34:00.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAACQBAAAAAAAAAAAqwDMBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:33:49.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FinalExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:34:20.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:11:37.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20260611053212_CreateDbAndTables.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Migrations\\20260611053212_CreateDbAndTables.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Migrations\\20260611053212_CreateDbAndTables.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Migrations\\20260611053212_CreateDbAndTables.cs",
+              "RelativeToolTip": "FinalExam\\Migrations\\20260611053212_CreateDbAndTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:32:12.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalExam\\appsettings.json",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\appsettings.json",
+              "RelativeToolTip": "FinalExam\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T05:30:45.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Models\\AppUser.cs",
+              "RelativeToolTip": "FinalExam\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:17:49.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Models\\City.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Models\\City.cs",
+              "RelativeToolTip": "FinalExam\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:16:04.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T05:11:28.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FinalExam\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "FinalExam\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:10:55.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "FinalExam\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:10:54.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

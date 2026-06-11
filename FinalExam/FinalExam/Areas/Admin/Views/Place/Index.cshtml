@@ -1,0 +1,71 @@
+﻿@using FinalExam.Models
+@model List<Place>
+<div>
+    <a class="btn btn-primary" asp-controller="Place" asp-action="Create">Create</a>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">FullAddress</th>
+                <th scope="col">Description</th>
+                <th scope="col">City</th>
+                <th scope="col">Image</th>
+                <th scope="col">Delete Status</th>
+                <th colspan="3" scope="col">Actions</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Place place in Model)
+            {
+                <tr>
+                    <th scope="row">@place.Id</th>
+                    <td>@place.Name</td>
+                    <td>@place.FullAddress</td>
+                    <td>@place.Description</td>
+                    <td>@place.City.Name</td>
+                    <td>
+                        <img style="width:90px; height:90px;" src="~/uploads/places/@place.ImageUrl" />
+                    </td>
+                    @if (!place.IsDeleted)
+                    {
+                        <td class="text-success">Actice</td>
+                    }
+                    else
+                    {
+                        <td class="text-danger">Inactive</td>
+                    }
+
+                    <td>
+                        <a class="btn btn-primary" asp-controller="Place" asp-action="Update" asp-route-id="@place.Id">Update</a>
+                    </td>
+
+                    <td>
+                        @if (!place.IsDeleted)
+                        {
+                            <form asp-controller="Place" asp-action="SoftDelete" asp-route-id="@place.Id">
+                                <button class="btn btn-warning">SoftDelete</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <form asp-controller="Place" asp-action="Restore" asp-route-id="@place.Id">
+                                <button class="btn btn-success">Restore</button>
+                            </form>
+                        }
+                    </td>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <td>
+                            <form asp-controller="Place" asp-action="HardDelete" asp-route-id="@place.Id">
+                                <button class="btn btn-danger">HardDelete</button>
+                            </form>
+                        </td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
