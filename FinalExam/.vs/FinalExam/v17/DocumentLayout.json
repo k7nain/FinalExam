@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\cff\\source\\repos\\FinalExam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\areas\\admin\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABB28150-3541-469C-AC41-411919644FD8}|FinalExam\\FinalExam.csproj|c:\\users\\cff\\source\\repos\\finalexam\\finalexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -174,11 +174,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ErrorController.cs",
               "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Controllers\\ErrorController.cs",
               "RelativeDocumentMoniker": "FinalExam\\Controllers\\ErrorController.cs",
@@ -191,33 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Error\\Index.cshtml",
-              "RelativeDocumentMoniker": "FinalExam\\Views\\Error\\Index.cshtml",
-              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Error\\Index.cshtml",
-              "RelativeToolTip": "FinalExam\\Views\\Error\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-11T07:48:18.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NotFoundPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Error\\NotFoundPage.cshtml",
-              "RelativeDocumentMoniker": "FinalExam\\Views\\Error\\NotFoundPage.cshtml",
-              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Error\\NotFoundPage.cshtml",
-              "RelativeToolTip": "FinalExam\\Views\\Error\\NotFoundPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-11T07:48:17.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "PlaceController.cs",
               "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\PlaceController.cs",
               "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Controllers\\PlaceController.cs",
@@ -229,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FinalExam\\Controllers\\HomeController.cs",
@@ -237,24 +211,24 @@
               "RelativeToolTip": "FinalExam\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAIwB8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T05:11:02.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T05:11:02.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "FinalExam\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Controllers\\AccountController.cs",
               "RelativeToolTip": "FinalExam\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAmwDQAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwBkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T06:23:35.75Z"
+              "WhenOpened": "2026-06-11T06:23:35.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CityController.cs",
               "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\CityController.cs",
               "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Controllers\\CityController.cs",
@@ -266,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Program.cs",
               "RelativeDocumentMoniker": "FinalExam\\Program.cs",
@@ -274,12 +248,61 @@
               "RelativeToolTip": "FinalExam\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T05:19:25.222Z",
+              "WhenOpened": "2026-06-11T05:19:25.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T06:27:20.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T06:27:13.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotFoundPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Error\\NotFoundPage.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Error\\NotFoundPage.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Error\\NotFoundPage.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Error\\NotFoundPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T07:48:17.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Error\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalExam\\Views\\Error\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Error\\Index.cshtml",
+              "RelativeToolTip": "FinalExam\\Views\\Error\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T07:48:18.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\Place\\Index.cshtml",
               "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\Place\\Index.cshtml",
@@ -291,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\ViewModels\\Account\\RegisterVM.cs",
               "RelativeDocumentMoniker": "FinalExam\\ViewModels\\Account\\RegisterVM.cs",
@@ -303,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Views\\City\\Index.cshtml",
               "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Views\\City\\Index.cshtml",
@@ -315,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "FinalExam\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -327,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\ViewModels\\Account\\LoginVM.cs",
               "RelativeDocumentMoniker": "FinalExam\\ViewModels\\Account\\LoginVM.cs",
@@ -336,30 +359,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T06:24:23.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "FinalExam\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "FinalExam\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-11T06:27:13.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "FinalExam\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\cff\\source\\repos\\FinalExam\\FinalExam\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "FinalExam\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-11T06:27:20.296Z"
             },
             {
               "$type": "Document",

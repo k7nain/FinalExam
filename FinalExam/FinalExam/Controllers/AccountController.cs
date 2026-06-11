@@ -93,13 +93,13 @@ namespace FinalExam.Controllers
             return RedirectToAction("Index", "Home");
 
         }
-        public async Task<IActionResult> CreateRole()
-        {
-            await _roleManager.CreateAsync(new IdentityRole("User"));
-            await _roleManager.CreateAsync(new IdentityRole("Admin"));
-            await _roleManager.CreateAsync(new IdentityRole("Manager"));
+        //public async Task<IActionResult> CreateRole()
+        //{
+        //    await _roleManager.CreateAsync(new IdentityRole("User"));
+        //    await _roleManager.CreateAsync(new IdentityRole("Admin"));
+        //    await _roleManager.CreateAsync(new IdentityRole("Manager"));
 
-            return Content("Okey");
-        }
+        //    return Content("Okey");
+        //}
     }
 }
